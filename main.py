@@ -48,3 +48,4 @@ app = QApplication(sys.argv)
 window = MyWindow()
 window.show()
 app.exec_()
+#ad
